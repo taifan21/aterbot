@@ -1,7 +1,7 @@
 {
 	"client": {
 		"host": "TAIfanyt12.aternos.me",
-		"port": "49475",
+		"port": 49475,
 		"username": "Please enter the bot's username you want"
 	},
 	
